@@ -20,12 +20,7 @@ A modern enterprise-level admin management system with dual backend options (Dja
 [https://doc.zq-platform.com](https://doc.zq-platform.com/)
 
 ## Demo Link
-### Explorer Version
 [https://demo.zq-platform.com](https://demo.zq-platform.com/)
-### Django
-[https://django-ninja.zq-platform.cn](https://django-ninja.zq-platform.cn/)
-### FastAPI
-[https://fastapi.zq-platform.cn](https://fastapi.zq-platform.cn/)
 
 ## Demo Account
 **Account**: yangfei
